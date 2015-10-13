@@ -1,0 +1,14 @@
+.cubits-currency {
+	width: 65px;
+}
+.cubits-price {
+	width: 106px;
+}
+#cubits-toggle {
+	cursor: pointer;
+}
+#cubits-advanced {
+	/*
+	display: none;
+	margin-top: 7px; */
+}
